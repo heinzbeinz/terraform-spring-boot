@@ -1,0 +1,3 @@
+rootProject.name = 'terraform-spring-boot-solution'
+
+include 'terraform-client'
